@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="150mm"
+   viewBox="0 0 744.09449 531.49606"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="StencilForFiboxVentilator.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.315817"
+     inkscape:cx="293.8797"
+     inkscape:cy="395.79938"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="188.77226,432.47158"
+       orientation="1,0"
+       id="guide4151" />
+    <sodipodi:guide
+       position="208.97531,415.55153"
+       orientation="0,1"
+       id="guide4153" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-520.86614)">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#fa0000;stroke-width:0.10629921;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4168"
+       cx="165.28725"
+       cy="619.39215"
+       rx="7.0258241"
+       ry="7.0258236" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#fa0000;stroke-width:0.10629921;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4168-0"
+       cx="264.08011"
+       cy="618.90039"
+       rx="7.0258241"
+       ry="7.0258236" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#fa0000;stroke-width:0.10629921;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4168-0-6"
+       cx="374.4697"
+       cy="681.85797"
+       rx="7.0258241"
+       ry="7.0258236" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#fa0000;stroke-width:0.10629921;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4168-0-6-1"
+       cx="264.71365"
+       cy="745.72186"
+       rx="7.0258241"
+       ry="7.0258236" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#fa0000;stroke-width:0.10629921;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4168-0-6-1-7"
+       cx="165.64969"
+       cy="746.67816"
+       rx="7.0258241"
+       ry="7.0258236" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#fa0000;stroke-width:0.10629921;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 148.06055,74.275391 0,174.390629 164.54882,-0.19239 c 44.24277,-5.21211 79.6519,-42.06584 79.67246,-87.30277 0.0208,-45.23667 -35.1669,-83.982967 -79.53911,-86.872267 z"
+       transform="translate(0,520.86614)"
+       id="path4232"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="171.27226"
+       y="675.38208"
+       id="text4234"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4236"
+         x="171.27226"
+         y="675.38208"
+         style="font-size:17.5px">Stencil for </tspan><tspan
+         sodipodi:role="line"
+         x="171.27226"
+         y="697.25708"
+         id="tspan4238"
+         style="font-size:17.5px">FIBOX  MB 10564 II</tspan></text>
+  </g>
+</svg>

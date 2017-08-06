@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="191mm"
+   height="240mm"
+   viewBox="0 0 676.77165 850.39369"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="FiboxLargePanelUnitedWithArduino.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="448.41115"
+     inkscape:cy="512.673"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="CHarting"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-201.96851)">
+    <rect
+       style="fill:none;stroke:none;stroke-opacity:1"
+       id="rect3336"
+       width="496.06299"
+       height="354.33072"
+       x="67.633064"
+       y="680.13263" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cutting"
+     transform="translate(0,457.08661)">
+    <path
+       id="path3388"
+       style="fill:none;stroke:#000000;stroke-width:1.09668827;stroke-opacity:1"
+       d="m 606.90646,-39.225955 a 7.3873897,7.3873892 0 0 1 7.38867,7.38868 7.3873897,7.3873892 0 0 1 -7.38867,7.38672 7.3873897,7.3873892 0 0 1 -7.38672,-7.38672 7.3873897,7.3873892 0 0 1 7.38672,-7.38868 z m -537.043222,-0.10301 a 7.3873897,7.3873892 0 0 1 7.386718,7.38868 7.3873897,7.3873892 0 0 1 -7.386718,7.38672 7.3873897,7.3873892 0 0 1 -7.386719,-7.38672 7.3873897,7.3873892 0 0 1 7.386719,-7.38868 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4150"
+       style="fill:none;stroke:#000000;stroke-width:1.09668827;stroke-opacity:1"
+       d="m 338.30853,316.04636 a 7.3873897,7.3873892 0 0 1 7.38672,7.38672 7.3873897,7.3873892 0 0 1 -7.38672,7.38867 7.3873897,7.3873892 0 0 1 -7.38672,-7.38867 7.3873897,7.3873892 0 0 1 7.38672,-7.38672 z m 0.0134,-710.6894 a 7.3873897,7.3873892 0 0 1 7.38672,7.38867 7.3873897,7.3873892 0 0 1 -7.38672,7.38672 7.3873897,7.3873892 0 0 1 -7.38867,-7.38672 7.3873897,7.3873892 0 0 1 7.38867,-7.38867 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.5616225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 145.16962,264.58823 350.45242,0 0,-4.49298 8.98596,-8.98596 0,-121.31046 -8.98596,-8.98596 0,-35.943836 -8.89998,-8.98596 -341.55244,2.2e-5 z"
+       id="path3132"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="path5052-6"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5616225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 378.75535,198.73951 a 5.6076665,5.6076665 0 0 1 -5.60767,5.60767 5.6076665,5.6076665 0 0 1 -5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,5.60767 z m 0,-98.845554 a 5.6076665,5.6076665 0 0 1 -5.60767,5.607674 5.6076665,5.6076665 0 0 1 -5.60766,-5.607674 5.6076665,5.6076665 0 0 1 5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,5.60767 z M 199.03616,45.978191 a 5.6076665,5.6076665 0 0 1 -5.60767,5.607667 5.6076665,5.6076665 0 0 1 -5.60766,-5.607667 5.6076665,5.6076665 0 0 1 5.60766,-5.607666 5.6076665,5.6076665 0 0 1 5.60767,5.607666 z m -4.49298,170.733239 a 5.6076665,5.6076665 0 0 1 -5.60767,5.60767 5.6076665,5.6076665 0 0 1 -5.60767,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,-5.60766 5.6076665,5.6076665 0 0 1 5.60767,5.60766 z M 464.12196,45.978191 a 5.6076665,5.6076665 0 0 1 -5.60767,5.607667 5.6076665,5.6076665 0 0 1 -5.60766,-5.607667 5.6076665,5.6076665 0 0 1 5.60766,-5.607666 5.6076665,5.6076665 0 0 1 5.60767,5.607666 z m 22.4649,170.733239 a 5.6076665,5.6076665 0 0 1 -5.60766,5.60767 5.6076665,5.6076665 0 0 1 -5.60767,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,-5.60766 5.6076665,5.6076665 0 0 1 5.60766,5.60766 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:2.06220472;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 161.1582 26.574219 L 161.1582 99.199219 L 28.345703 99.199219 L 28.345703 751.18359 L 161.21094 751.18359 L 161.21094 823.81836 L 515.5625 823.81836 L 515.5625 751.1875 L 648.42578 751.1875 L 648.42578 99.201172 L 515.55664 99.201172 L 515.55664 26.574219 L 161.1582 26.574219 z "
+       transform="translate(0,-457.08661)"
+       id="rect3398" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="189.50462"
+       y="25.126249"
+       id="text4247"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4249"
+         x="189.50462"
+         y="25.126249">Arduino Mega</tspan></text>
+    <path
+       id="path3388-6"
+       style="fill:none;stroke:#000000;stroke-width:1.09668827;stroke-opacity:1"
+       d="m 607.21351,-261.47545 a 7.3873897,7.3873892 0 0 1 7.38867,7.38868 7.3873897,7.3873892 0 0 1 -7.38867,7.38672 7.3873897,7.3873892 0 0 1 -7.38672,-7.38672 7.3873897,7.3873892 0 0 1 7.38672,-7.38868 z M 70.1703,-261.57846 a 7.3873897,7.3873892 0 0 1 7.386711,7.38868 7.3873897,7.3873892 0 0 1 -7.386711,7.38672 7.3873897,7.3873892 0 0 1 -7.38672,-7.38672 7.3873897,7.3873892 0 0 1 7.38672,-7.38868 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3388-6-5"
+       style="fill:none;stroke:#000000;stroke-width:1.09668827;stroke-opacity:1"
+       d="m 607.31315,183.09755 a 7.3873897,7.3873892 0 0 1 7.38867,7.38868 7.3873897,7.3873892 0 0 1 -7.38867,7.38672 7.3873897,7.3873892 0 0 1 -7.38672,-7.38672 7.3873897,7.3873892 0 0 1 7.38672,-7.38868 z M 70.269959,182.99454 a 7.3873897,7.3873892 0 0 1 7.38671,7.38868 7.3873897,7.3873892 0 0 1 -7.38671,7.38672 7.3873897,7.3873892 0 0 1 -7.38672,-7.38672 7.3873897,7.3873892 0 0 1 7.38672,-7.38868 z"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="197.49921"
+       y="-404.40829"
+       id="text4247-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4249-9"
+         x="197.49921"
+         y="-404.40829">Mount Screws - FIBOX Tempo </tspan><tspan
+         sodipodi:role="line"
+         x="197.49921"
+         y="-385.65829"
+         id="tspan4301">                                TA241911T </tspan></text>
+    <path
+       id="path4311-4-6-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5616225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 445.41027,-135.09743 a 5.6076665,5.6076665 0 0 1 -5.60767,5.60766 5.6076665,5.6076665 0 0 1 -5.60766,-5.60766 5.6076665,5.6076665 0 0 1 5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,5.60767 z m -227.33212,-0.10984 a 5.6076665,5.6076665 0 0 1 -5.60767,5.60766 5.6076665,5.6076665 0 0 1 -5.60766,-5.60766 5.6076665,5.6076665 0 0 1 5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,5.60767 z m 227.46822,-173.52841 a 5.6076665,5.6076665 0 0 1 -5.60767,5.60766 5.6076665,5.6076665 0 0 1 -5.60766,-5.60766 5.6076665,5.6076665 0 0 1 5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,5.60767 z m -227.33212,-0.10984 a 5.6076665,5.6076665 0 0 1 -5.60767,5.60766 5.6076665,5.6076665 0 0 1 -5.60766,-5.60766 5.6076665,5.6076665 0 0 1 5.60766,-5.60767 5.6076665,5.6076665 0 0 1 5.60767,5.60767 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="205.88939"
+       y="-325.11343"
+       id="text4453"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4455"
+         x="205.88939"
+         y="-325.11343">Edison Board DFR0338</tspan></text>
+  </g>
+</svg>
